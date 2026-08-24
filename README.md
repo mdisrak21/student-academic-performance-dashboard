@@ -2,6 +2,16 @@
 
 An interactive data analysis and machine learning dashboard for exploring student academic performance and predicting mathematics scores.
 
+## 🌐 Live Demo
+
+🚀 **Interactive Streamlit Dashboard:**
+
+https://student-academic-performances-dashboard.streamlit.app/
+
+## 🖥️ Dashboard Preview
+
+![Student Academic Performance Dashboard](dashboard_preview.PNG)
+
 ## 📌 Project Overview
 
 This project analyzes student academic performance data and provides an interactive Streamlit dashboard for exploring academic patterns and generating estimated mathematics scores using a machine learning model.
