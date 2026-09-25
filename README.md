@@ -175,3 +175,20 @@ The application also provides an option to download the dataset as a CSV file.
 ├── test_preparation.png
 ├── score_distribution.png
 └── actual_vs_predicted.png
+
+```
+## ⚙️ Installation & Usage
+
+```bash
+git clone https://github.com/mdisrak21/student-academic-performance-dashboard.git
+cd student-academic-performance-dashboard
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 🔮 Future Improvements
+
+- Add more advanced models.
+- Include additional academic indicators.
+- Improve model validation.
+- Add model explainability.
